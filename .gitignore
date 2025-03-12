@@ -1,0 +1,10 @@
+# R-specific ignore patterns
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# R project files
+*.Rproj
+
+
