@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains an R-based analysis of Zagreb's urban forests using high-resolution tree canopy data. 
+This repository contains an R-based analysis of Zagreb's urban trees using high-resolution tree canopy data. 
 The project analyzes the distribution of tree cover across Zagreb's administrative districts, calculates urban 
 cooling potential, tree heights distributions, and presents the results in an 
 interactive Leaflet map.
@@ -53,7 +53,7 @@ To run the analysis:
 3. Run the main script `tree_canopy_height.R`
 
 The main output is an interactive HTML map that can be opened in any web browser, allowing exploration of 
-different aspects of Zagreb's urban forests.
+different aspects of Zagreb's urban trees.
 
 ## Results
 The analysis reveals significant disparities in tree canopy coverage across Zagreb's districts, with values ranging 
@@ -76,9 +76,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 3. The `chmloader` package developers for facilitating access to canopy height data
 
 ## References
-1. Rahman, M. A., Moser, A., Gold, A., Rötzer, T., & Pauleit, S. (2017). Vertical air temperature gradients under 
-the shade of two contrasting urban tree species during different types of summer days. 
-Urban Forestry & Urban Greening (https://treefund.org/wp-content/uploads/2018/04/Rahman-et-al.-2018.pdf)
+1. Rahman, M.A., Moser, A., Rötzer, T., & Pauleit, S. (2017). Within canopy temperature differences and cooling 
+ability of Tilia cordata trees grown in urban conditions. Building and Environment, 114, 118-128.
+(https://doi.org/10.1016/j.buildenv.2016.12.013)
 2. Norton, B. A., Coutts, A. M., Livesley, S. J., Harris, R. J., Hunter, A. M., & Williams, N. S. G. (2015). Planning 
 for cooler cities: A framework to prioritise green infrastructure to mitigate high temperatures in urban landscapes. 
 Landscape and Urban Planning, 134, 127-138. (https://doi.org/10.1016/j.landurbplan.2014.10.018)
